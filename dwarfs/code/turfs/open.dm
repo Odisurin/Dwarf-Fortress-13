@@ -312,3 +312,8 @@
 		reagents.expose(arrived)
 		for(var/atom/A in arrived)
 			reagents.expose(A)
+
+/turf/open/floor/dirt/grass
+	name = "grass"
+	desc = "Touch it."
+	icon_state = "grass"
