@@ -12,7 +12,7 @@
 	AddElement(/datum/element/processable, TOOL_KNIFE, /obj/item/food/slice/meat, 3, 2 SECONDS)
 
 /obj/item/food/meat/slab/human
-	desc = "You probably should not eat this one."
+	desc = "You probably should season this one."
 
 /obj/item/food/meat/slab/troll
 	name = "troll meat"
